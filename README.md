@@ -1,7 +1,7 @@
 # YouTube Channel Dashboard
 
 ## Overview
-This project provides an automated pipeline and interactive dashboard for analyzing YouTube channel video performance. It collects video data using the YouTube Data API, enriches it with custom tags, and visualizes key metrics to help content creators and analysts derive actionable insights.
+This project provides an automated pipeline and interactive dashboard for analyzing YouTube channel video performance. It collects video data using the YouTube Data API, enriches it with custom tags, and visualizes key metrics to help content creators and analysts derive actionable insights. WIP for more features and bug fixing!
 
 ---
 
@@ -36,7 +36,7 @@ This project provides an automated pipeline and interactive dashboard for analyz
 
 1. **Clone the repository:**
    ```sh
-   git clone <repo-url>
+   git clone https://github.com/jordanjho/YouTube-Dashboard.git
    cd YouTube-Dashboard
    ```
 
@@ -77,23 +77,7 @@ This project provides an automated pipeline and interactive dashboard for analyz
    ```sh
    python app.py
    ```
-   Open the link shown in your terminal (usually http://127.0.0.1:8050/) in your browser.
-
----
-
-## File Structure
-
-```
-YouTube-Dashboard/
-├── app.py               # Dash dashboard application
-├── youtube_api.py       # Script to fetch video data from YouTube API
-├── utils.py             # Data enrichment and tagging utilities
-├── inspect_csv.py       # Script to inspect CSV data
-├── config.py            # API credentials (not included, create your own)
-├── data/
-│   └── videos.csv       # Collected video data
-├── requirements.txt     # Python dependencies
-```
+   Open the link shown in your terminal in your browser.
 
 ---
 

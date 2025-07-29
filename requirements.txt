@@ -1,0 +1,6 @@
+dash
+pandas
+plotly
+google-api-python-client
+python-dotenv
+isodate

@@ -23,13 +23,12 @@ This project provides an automated pipeline and interactive dashboard for analyz
 
 ## Technologies Used
 
-- Python 3
+- Python
 - pandas
 - Dash
 - Plotly
 - google-api-python-client
 - isodate
-- BeautifulSoup (optional for web scraping)
 
 ---
 

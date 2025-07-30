@@ -1,7 +1,7 @@
 # YouTube Channel Dashboard
 
 ## Overview
-This project provides an automated pipeline and interactive dashboard for analyzing YouTube channel video performance. It collects video data using the YouTube Data API, enriches it with custom tags, and visualizes key metrics to help content creators and analysts derive actionable insights. Currently, this is a work in progress! I plan to develop more features and fix many, many bugs!
+This project provides an automated pipeline and interactive dashboard for analyzing YouTube channel video performance. It collects video data using the YouTube Data API, enriches it with custom tags, and visualizes key metrics to help content creators and analysts derive actionable insights. Currently, this is a work in progress! With a free tier YouTube API plan, usage is quite limited in terms of content that can be retrived. I plan to develop more features and fix a handful of bugs!
 
 <img width="1754" height="560" alt="Screenshot 2025-07-28 at 8 52 53 PM" src="https://github.com/user-attachments/assets/19851269-9bf1-4c8c-a90e-f8bb44aba0bb" />
 

@@ -112,9 +112,3 @@ This project provides an automated pipeline and interactive dashboard for analyz
 
 This project is for educational and personal analytics use.  
 Please respect YouTube’s Terms of Service regarding data usage and scraping.
-
----
-
-## Author
-
-Created by Jordan Ho
